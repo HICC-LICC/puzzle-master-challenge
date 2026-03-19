@@ -87,3 +87,7 @@ No personally identifying information is stored or required—designed for anony
 ## Support
 
 For troubleshooting or improvements, consult the event review document or contact your designated AI literacy facilitator/admin.
+
+## Contact
+
+For inquiries, the HICC Data Science Team at datascience-sciencedesdonnees@infc.gc.ca
