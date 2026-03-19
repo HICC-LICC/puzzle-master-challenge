@@ -94,3 +94,10 @@ For troubleshooting or improvements, consult the event review document or contac
 ## Contact
 
 For inquiries, the HICC Data Science Team at datascience-sciencedesdonnees@infc.gc.ca
+
+## Organizational Use
+
+This repository is used internally by the HICC Data Science Team for developing AI escape room scenarios.  
+If no longer used or supported, this will be updated in the README.
+
+© 2024 Housing, Infrastructure and Communities Canada. Released under the MIT License.
