@@ -3,6 +3,13 @@
 A bilingual AI escape room challenge system prompt and supporting documentation for use with custom GPTs (e.g., CanChat).  
 This repository also includes an event review document outlining practical deployment lessons and recommendations.
 
+## Development Status
+
+Current Version: v1.0  
+Status: Actively maintained  
+Release Notes:  
+- Initial release with bilingual escape room prompt (EN/FR)
+- Event review document added
 
 ## Contents
 
