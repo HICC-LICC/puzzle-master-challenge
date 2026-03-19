@@ -17,6 +17,9 @@ Release Notes:
 - **Puzzle Master Challenge Event Review.docx** — Event review and recommendations document.
 - **README.md** — This file.
 
+## Data Description
+
+- This project contains a bilingual (EN/FR) AI escape room system prompt. No personal or sensitive data is included.
 
 ## Overview
 
